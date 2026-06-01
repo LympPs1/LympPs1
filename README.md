@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vasilis 👋
 
-<!--
-**LympPs1/LympPs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building practical skills through code and consistent learning.
 
-Here are some ideas to get you started:
+---
+## About me
+- Interested in software development and problem solving  
+- Learning by building small, real projects  
+- Focused on improving step by step, not rushing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## ⚙️ Tech I'm working with
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+---
+## 🚧 Current focus
+- Writing cleaner code  
+- Understanding core programming concepts deeply  
+- Building small projects to apply what I learn  
+
+---
+
+## 📂 Projects
+- Coming soon...
+
+---
+
+## 📫 Contact
+- Email: psychedelicos60@gmail.com  
+
+---
