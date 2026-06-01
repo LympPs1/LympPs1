@@ -24,8 +24,8 @@ Computer Science student focused on building practical skills through code and c
 ---
 
 ## 📂 Projects
-- Coming soon...
-
+- 🔹 [Java Calculator](https://github.com/LympPs1/Java-Calculator) - Simple calculator built with Java Swing.
+- 🚀 More projects coming soon.
 ---
 
 ## 📫 Contact
