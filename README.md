@@ -4,9 +4,11 @@ Computer Science student focused on building practical skills through code and c
 
 ---
 ## About me
-- Interested in software development and problem solving  
-- Learning by building small, real projects  
-- Focused on improving step by step, not rushing
+- Computer Engineering student at the International Hellenic University (IHU), focused on software development and computer science fundamentals.
+
+- Currently developing strong skills in C++ and Java through structured practice and small projects.
+
+- Interested in algorithms, system design basics, and writing efficient, clean code.
 
 ---
 ## ⚙️ Tech I'm working with
